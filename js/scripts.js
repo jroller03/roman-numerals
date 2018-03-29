@@ -4,7 +4,7 @@ function romanize(num){
   var numerals = ["M", "CM","D","CD","C", "XC", "L", "XL", "X","IX","V","IV","I"];
   for (var i=0; i < decimals.length; i++){
     while (num % decimals[i] < num){
-      result += numerals[i]
+      result += numerals[i];
 
       num -= decimals[i];
     }

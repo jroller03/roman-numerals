@@ -44,4 +44,4 @@ _nmedoff123@gmail.com_
 
 *{This software is licensed under the MIT license}*
 
-Copyright (c) 2017 **_{Justin Roller co., Noah co.}_**
+Copyright (c) 2018 **_{Justin Roller co., Noah co.}_**
